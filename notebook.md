@@ -1,6 +1,9 @@
 
+Week 4:
+Studied various big data technologies
+
 Week 3:
-Leaned about how to use Jabref software for document writing and referencing.
+Learned about how to use Jabref software for document writing and referencing.
 
 Week 2:
 Reviewed python basics and went through introductions of Bigdata technologies.
