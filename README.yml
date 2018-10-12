@@ -4,3 +4,22 @@ owner:
   lastname: "Rapelli"
   hid: "fa18-523-79"
   community: "I523"
+technologies:
+  - url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lucene.md
+  - url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/zeromq.md
+  - url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dream-lab.md
+  - url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/espresso.md
+  - url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/winery.md
+  - url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/mesos.md
+  
+  Paper:
+    title: ""
+    url: TBD
+    group:
+    
+  project:
+    title: "How big data related to education"
+    url: TBD
+    group: fa18-523-81
+    code: TBD
+    
