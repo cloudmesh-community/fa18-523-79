@@ -14,12 +14,12 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/mesos.md
   
 paper:
-  - title: TBD
+  - title: "QlikView"
     url: TBD
     group: TBD
     
 project:
-  - title: ""
+  - title: "Analysis of Global Commodity Statistics using PySpark and Watson Analytics"
     url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Project/Project-Proposal.md
     group: fa18-523-81
     code: TBD
