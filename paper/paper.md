@@ -1,4 +1,4 @@
-# QlikView (draft)
+# QlikView
 
 ## Abstract:
 
