@@ -16,4 +16,8 @@ The frontend is a browser-based access for viewing the Qlikview files, which has
 
 Qlikview is widely used by businesses for Business Intelligence, analytics, visualization and reporting task to monitor business performances on daily, weekly, month, quarterly or yearly basis. It can be used both for on-site reporting as well as client-side remote reporting on real time through internet. Hence, it can be accessed at any time or anywhere through internet. From user point of view, it is very simple and conformable UI, that is drag and drop based and hence not at all difficult or hard to master and operate quickly. The reports and visualizations can be interactive, which makes it feel good and easy for understanding to the viewer. All these advantages make it one of the most preferred BI tools in the industry.
 
+## Conclusion:
+
+Qlikview being a web based software tool is very simple, reliable and robust and accessable for various BI applications. It is easy to learn, work on and present compared to traditional software available in this segment. Yet, it has got lot of short coming too, where it cannot be used for large scale data analytics like Big-Data and it does not support advanced machine learning based predictive analytics. However, for small to medium-large level data sets, it is one of the best softwares that is available for business analytics and visualization tasks.
+
 ## References:
