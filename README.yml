@@ -3,7 +3,7 @@ owner:
   firstname: "Abhishek"
   lastname: "Rapelli"
   hid: "fa18-523-79"
-  community: "I523"
+  community: "i523"
   
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lucene.md
