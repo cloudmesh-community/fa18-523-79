@@ -4,7 +4,7 @@ owner:
   lastname: "Rapelli"
   hid: "fa18-523-79"
   community: "i523"
-  
+  semester: fa18
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lucene.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/zeromq.md
@@ -12,13 +12,11 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/espresso.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/winery.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/mesos.md
-  
 paper:
   - title: "QlikView"
     keyword: QlikView
     url: https://github.com/cloudmesh-community/fa18-523-79/blob/master/Paper/Paper.md
     group: TBD
-    
 project:
   - title: "Analysis of Global Commodity Statistics using PySpark and Watson Analytics"
     keyword: PySpark Watson
