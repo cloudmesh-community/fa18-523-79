@@ -15,12 +15,12 @@ technologies:
 paper:
   - title: "QlikView"
     keyword: QlikView
-    url: https://github.com/cloudmesh-community/fa18-523-79/blob/master/Paper/Paper.md
+    url: https://github.com/cloudmesh-community/fa18-523-79/blob/master/paper/paper.md
     group: TBD
 project:
   - title: "Analysis of Global Commodity Statistics using PySpark and Watson Analytics"
     keyword: PySpark Watson
-    url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Project/Project-Proposal.md
+    url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/project/project-proposal.md
     group: fa18-523-81
     code: TBD
     
