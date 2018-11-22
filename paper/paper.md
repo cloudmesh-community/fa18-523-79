@@ -1,4 +1,4 @@
-# QlikView :hand: fa18-523-79
+# QlikView :wave: :exclamation: fa18-523-79
 
 :o: format incorrect
 
