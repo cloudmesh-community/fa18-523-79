@@ -6,6 +6,7 @@
 
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-79/edit/master/paper/paper.md)
 
+:o: please merge abstract into introduction as this paper is too short to justify an abstract
 
 ## Abstract
 
