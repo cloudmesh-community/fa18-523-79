@@ -1,4 +1,4 @@
-# QlikView :smiley: :exclamation: fa18-523-79
+# QlikView
 
 | Abhishek Rapelli
 | arapelli@iu.edu
