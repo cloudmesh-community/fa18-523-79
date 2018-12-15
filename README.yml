@@ -5,6 +5,7 @@ owner:
   hid: "fa18-523-79"
   community: "i523"
   semester: fa18
+  profile: "https://github.com/arapelli"
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lucene.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/zeromq.md
@@ -16,7 +17,7 @@ paper:
   - title: "QlikView"
     keyword: QlikView
     url: https://github.com/cloudmesh-community/fa18-523-79/blob/master/paper/paper.md
-    group: fa18-523-79
+    group: fa18-523-81
 project:
   - title: Visualizing Commodity Trade Statistics using Azure, Python
     keyword: Azure, Python, seaborn, altair, matplotlib
