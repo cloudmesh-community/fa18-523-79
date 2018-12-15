@@ -1,3 +1,23 @@
+### 12/01/2018:
+
+Submitted final 2-page summary after necessary changes from the feedback
+
+### 11/26/2018:
+
+Submitted the 2-page summary
+
+### 11/03/2018:
+
+Submitted the final 6 tech summaries with suggested changes and feedback on previous submission
+
+### 10/29/2018:
+
+Submitted the 6 tech summaries on github
+
+### 10/10/2018:
+
+Started working on Tech summaries.
+
 ### Week Fri 10/05/18 - 10/11/18:
 
 Worked on project proposal and 2 page tech paper drafts.
